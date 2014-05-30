@@ -27,6 +27,7 @@ You can also run and enter the contents afterwards:
 You can write JMS headers before the first `{` in the format `key=value`. They will be read as Java properties format and injected into the JMS mesage.
 
 > my_header_1=12
+
 > my_header_2=abc
 
 Afterwards enter `{`, then the payload for the text message and end with `}`.
