@@ -1,7 +1,5 @@
 [![Build Status](https://snap-ci.com/imjorge/test-jms-producer/branch/master/build_image)](https://snap-ci.com/imjorge/test-jms-producer/branch/master)
 
-![Build Status](https://www.codeship.io/projects/16d92850-ca3d-0131-e4eb-121d56ccd2c2/status)
-
 test-jms-producer
 =================
 
