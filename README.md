@@ -2,3 +2,5 @@
 
 test-jms-producer
 =================
+
+> echo {c123} | java -jar target\test-jms-producer-0.0.1-SNAPSHOT.one-jar.jar -c conf\application.jboss4.properties
